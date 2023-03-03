@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+GyjToAa/oSSsJAhc4yPYZsfxS6L4eQM4Ym1QQTsZglhpm0EUwcUT4Z9eN4thETKPiM4ZPKey/NQJJ3AlOJNGQ==",
+  "dgSpecHash": "Cfxh5nLWV04HJW1A+vlNq9/I1nnQscDHOKRbktgVqiBXmAYO+XLLkmhTvDr3Nb1097e3gtZL8jh9FjIqjcbG2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\deeba\\source\\repos\\AKS\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\deeba\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }
